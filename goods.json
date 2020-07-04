@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "category": "Vacuum",
+      "goods": [
+        {
+          "name": "V11",
+          "status": "In-stock",
+          "price": "$599.99"
+        },
+        {
+          "name": "V10",
+          "status": "Out-of-stock",
+          "price": "$399.99"
+        }
+      ]
+    },
+    {
+      "category": "Hair Dryer",
+      "goods": [
+        {
+          "name": "Supersonic",
+          "status": "In-stock",
+          "price": "$399.99"
+        }
+      ]
+    }
+  ]
+}
